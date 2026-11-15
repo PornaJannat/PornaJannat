@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jannatul Bushra
 
 
-<p align="center">  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&height=60&lines=Web+Development+Enthusiast;Exploring+AI+%26+Data+Science" alt="Typing SVG" /></p>  
+<p align="center">  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=60&lines=Web+Development+Enthusiast;Exploring+AI+%26+Data+Science" alt="Typing SVG" /></p>  
 
 
 
