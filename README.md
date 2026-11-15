@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jannatul Bushra
 
 
-<p align="center">  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=900&height=60&lines=Web+Development+Enthusiast;Exploring+AI+%26+Data+Science" alt="Typing SVG" /></p>  
+<p align="center">  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=900&height=60&lines=Web+Development+Enthusiast;Exploring+AI+%26+Data+Science" alt="Typing SVG" /></p>  
 
 
 
@@ -56,7 +56,7 @@ I am a web developer from Bangladesh with a BSc degree in CSE from Eastern Unive
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=20&duration=4000&pause=1500&color=000000&center=true&vCenter=true&width=900&height=100&lines=AI%20can%20augment%20our%20own%20intelligence%2C%3Bhelping%20us%20to%20make%20better%20decisions%20and%20achieve%20more%20than%20we%20ever%20could%20alone." alt="Animated Quote" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=20&duration=4000&pause=1500&color=ffffff&center=true&vCenter=true&width=900&height=100&lines=AI%20can%20augment%20our%20own%20intelligence%2C%3Bhelping%20us%20to%20make%20better%20decisions%20and%20achieve%20more%20than%20we%20ever%20could%20alone." alt="Animated Quote" />
   <br/>
   <strong>— Andrew Ng</strong>
 </p>
