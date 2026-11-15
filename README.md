@@ -46,24 +46,10 @@ I am a web developer from Bangladesh with a BSc degree in CSE from Eastern Unive
 ### Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,mysql,html,css" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=git,github,mysql,html,css" />
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
 </p>
 
-## ## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Arafat-shuvo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-
-
-<p align="center">
-  <img src="./github-metrics.svg" alt="3D Contribution Calendar" />
-</p>
-
----
 
 
 
