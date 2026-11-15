@@ -46,7 +46,7 @@ I am a web developer from Bangladesh with a BSc degree in CSE from Eastern Unive
 
 ## 🐍 Contribution Snake
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="snake animation" />
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="snake animation" color=000000 />
 </div>
 
 
