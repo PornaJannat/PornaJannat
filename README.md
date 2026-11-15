@@ -3,16 +3,7 @@
 
 <p align="center">  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&height=60&lines=Web+Development+Enthusiast;Exploring+AI+%26+Data+Science" alt="Typing SVG" /></p>  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arafat-shuvo&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Arafat-shuvo?label=Followers&style=flat&color=blue" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Role-AI%20Researcher-00F7FF?style=flat&logo=openai&logoColor=black" alt="Web development" />
-  <img src="https://img.shields.io/badge/Focus-Medical%20Image%20Analysis-0e75b6?style=flat" alt="Data Analysis" />
-  <img src="https://img.shields.io/badge/Location-Bangladesh-006a4e?style=flat&logo=googlemaps&logoColor=white" alt="Bangladesh" />
-  <img src="https://img.shields.io/badge/Open%20to-Research%20Collaboration-success?style=flat" alt="Open to Collaboration" />
-</p>
 
----
 
 ## 👨‍💻 About Me
 
